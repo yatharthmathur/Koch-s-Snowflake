@@ -3,7 +3,7 @@ A simple implementation of recursive Koch's Snowflake pattern (FRACTAL) using Op
 Simple mouse interfacing implemented.
 
 # Requirement:
-g++ compiler
+g++ compiler<br>
 glut OpenGL library
 
 # How to use:
